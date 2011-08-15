@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1400"
@@ -14,7 +15,7 @@
    id="svg2996"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="Новый документ 3">
+   sodipodi:docname="administrative-regionsonly.svg">
   <defs
      id="defs2998" />
   <sodipodi:namedview
@@ -25,8 +26,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="375"
-     inkscape:cy="520"
+     inkscape:cx="409.61754"
+     inkscape:cy="634.28571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,5 +56,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,47.637817)" />
+     transform="translate(0,47.637817)">
+    <image
+       sodipodi:absref="/home/envek/AmurMap/source/administrative.gif"
+       xlink:href="source/administrative.gif"
+       y="-125"
+       x="0"
+       id="image3085"
+       height="1198"
+       width="1400" />
+  </g>
 </svg>
