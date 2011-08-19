@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1400"
@@ -65,20 +64,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="source"
-     inkscape:label="Source"
-     transform="translate(0,50)">
-    <image
-       sodipodi:absref="/home/envek/AmurMap/source/administrative.gif"
-       xlink:href="source/administrative.gif"
-       width="1400"
-       height="1198"
-       id="image3085"
-       x="0"
-       y="-125" />
-  </g>
   <g
      inkscape:label="Map"
      inkscape:groupmode="layer"
